@@ -1,9 +1,10 @@
-package com.example.funkosofttesttask
+package com.example.funkosofttesttask.presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.commit
-import com.example.funkosofttesttask.ui.fragments.UsersListFragment
+import com.example.funkosofttesttask.R
+import com.example.funkosofttesttask.presentation.fragments.UsersListFragment
 
 class MainActivity : AppCompatActivity() {
 

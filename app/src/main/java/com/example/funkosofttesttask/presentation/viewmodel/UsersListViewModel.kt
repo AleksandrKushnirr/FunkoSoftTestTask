@@ -1,4 +1,4 @@
-package com.example.funkosofttesttask.ui.viewmodel
+package com.example.funkosofttesttask.presentation.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -1,21 +1,17 @@
-package com.example.funkosofttesttask.ui.fragments
+package com.example.funkosofttesttask.presentation.fragments
 
 import android.annotation.SuppressLint
 import android.os.Bundle
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
-import android.widget.FrameLayout
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
 import com.example.funkosofttesttask.R
-import com.example.funkosofttesttask.ui.viewmodel.UsersListViewModel
+import com.example.funkosofttesttask.presentation.viewmodel.UsersListViewModel
 
 class UserInfoFragment : Fragment(){
 

@@ -1,4 +1,4 @@
-package com.example.funkosofttesttask.ui.fragments
+package com.example.funkosofttesttask.presentation.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -11,8 +11,8 @@ import androidx.fragment.app.commit
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.RecyclerView
 import com.example.funkosofttesttask.R
-import com.example.funkosofttesttask.ui.UsersAdapter
-import com.example.funkosofttesttask.ui.viewmodel.UsersListViewModel
+import com.example.funkosofttesttask.presentation.UsersAdapter
+import com.example.funkosofttesttask.presentation.viewmodel.UsersListViewModel
 
 class UsersListFragment : Fragment() {
 

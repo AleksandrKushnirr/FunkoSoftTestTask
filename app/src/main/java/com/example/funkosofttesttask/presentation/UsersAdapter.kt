@@ -1,4 +1,4 @@
-package com.example.funkosofttesttask.ui
+package com.example.funkosofttesttask.presentation
 
 import android.annotation.SuppressLint
 import android.content.Context
